@@ -1,2 +1,2 @@
 # Klub-Tekno
-Ini adalah direktori untuk project, testing, atau pembelajaran untuk Klub Teknologi Poltek SSN
+Ini adalah direktori yang disediakan untuk project, testing, atau pembelajaran Klub Teknologi Poltek SSN
